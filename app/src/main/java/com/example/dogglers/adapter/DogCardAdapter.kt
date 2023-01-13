@@ -42,6 +42,7 @@ class DogCardAdapter(
 
     /**
      * Initialize view elements
+     * Test
      */
     class DogCardViewHolder(view: View?) : RecyclerView.ViewHolder(view!!) {
         // TODO: Declare and initialize all of the list item UI components
